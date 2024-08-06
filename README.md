@@ -1,38 +1,6 @@
-# create-svelte
+# Bike Share Toronto Station Usage
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Toronto Bike Share's usage has been on the rise for the past decade, each year higher than the previous, even in 2020! With more riders in the system, Bike Share users can sometimes have a difficult time finding a station to borrow or dock their bikes, if they are not in the "right" location. This web map tracks Bike Station Docks / Bikes availability over the spa of (almost) one week, with data pulled from Toronto Bike Share's website. 
 
-## Creating a project
+The data is at 5 minute interval from May 21 (Tuesday) to May 26 (Sunday). Come in and find out how Toronto's Bike Share users move around the city!
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
