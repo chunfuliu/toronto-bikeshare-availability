@@ -5,7 +5,7 @@ Toronto Bike Share's usage has been on the rise for the past decade, each year h
 The data is at 5 minute interval from May 21 (Tuesday) to May 26 (Sunday). Come in and find out how Toronto's Bike Share users move around the city!
 
 
-https://chunfuliu.github.io/alternative-application-information-centre/
+https://chunfuliu.github.io/toronto-bikeshare-availability/
 
 
 <img title="Bikeshare Map" alt="Alt text" src="static/web-card.png">
